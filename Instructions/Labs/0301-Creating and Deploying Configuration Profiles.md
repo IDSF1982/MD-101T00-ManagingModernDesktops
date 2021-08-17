@@ -74,7 +74,7 @@ You need to use Azure Active Directory (Azure AD) and Intune to manage members o
 
     -   Platform: **Windows 10 and later**
 
-    -   Profile: **Device restrictions**
+    -   Profile: **choose Template, and then Device restrictions**
 9.  In the **Basics** blade, enter the following information, and then select **Next**:
 
     -   Name: **Contoso Developer - standard**
